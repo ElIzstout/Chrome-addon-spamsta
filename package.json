@@ -1,0 +1,14 @@
+{
+  "name": "spamsta",
+  "version": "1.0.1",
+  "description": "Spam Sequencer And anoying tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"npm test\")"
+  },
+  "author": "Ellis S",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
+}
